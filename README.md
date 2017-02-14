@@ -13,4 +13,4 @@ whooo boy this is fun!
 
 This change occured in feature-b, locally. 
 
-stan's changes.. here they are
+Stan's changes.. here they are
