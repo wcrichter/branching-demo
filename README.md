@@ -13,4 +13,12 @@ whooo boy this is fun!
 
 This change occured in feature-b, locally. 
 
+
 Here is Chris' change.
+
+add another line
+
+Stephen made this very well thought out and cool change.
+
+Stan's changes.. here they are
+
