@@ -12,3 +12,5 @@ whooo boy this is fun!
 
 
 This change occured in feature-b, locally. 
+
+Stan's changes.. here they are
